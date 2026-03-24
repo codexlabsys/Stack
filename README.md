@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="160" />
+  <img src="39e1a818-4304-45ee-b8d3-a1c354497832.png" width="160" />
 </p>
 
 <h1 align="center">Stack</h1>
