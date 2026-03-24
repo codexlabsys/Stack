@@ -1,6 +1,15 @@
+<p align="center">
+  <img src="logo.png" width="160" />
+</p>
+
+<h1 align="center">Stack</h1>
+<p align="center">
+  A self-funded AI bot that trades and reinvests profits.
+</p>
+---
 SELF-FUNDING AI TRADER
 
-A machine that pays for itself - then keeps going.
+A machine that pays for itself - then keeps growing.
 
 Self-funded AI trading system that compounds its own capital over time. Built in public.
 
