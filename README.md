@@ -25,10 +25,6 @@ Risk filter — Position sizing, max drawdown limits, correlation checks before 
 Execution — Automated order placement via broker API with slippage controls
 Feedback loop — Live results feed back into model retraining on a rolling basis
 
-
-Project Status
-ComponentStatusData pipeline✅ LiveSignal model v1✅ LiveRisk management layer✅ LiveLive execution✅ LiveSelf-funding mechanism🟡 TuningCompounding tracker✅ Live
-
 Stack
 
 Language — Python 3.11
