@@ -6,7 +6,7 @@
 <p align="center">
   A self-funded AI bot that trades and reinvests profits.
 </p>
----
+
 Stack
 A self-funded AI bot that trades and reinvests its profits.
 Stack is an autonomous trading system built to sustain itself. It trades, compounds its own capital, and covers its own costs — without outside funding.
