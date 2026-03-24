@@ -1,0 +1,36 @@
+{
+  "name": "Stack",
+  "version": "0.1.0",
+  "description": "A self-funded AI bot that trades and reinvests profits to grow its own money.",
+  "mode": "autonomous",
+  "capital_model": {
+    "type": "self-funded",
+    "reinvest_profits": true
+  },
+  "components": {
+    "signal_engine": {
+      "enabled": true,
+      "sources": ["price", "volume", "social", "momentum"]
+    },
+    "risk_manager": {
+      "enabled": true,
+      "max_position_size_pct": 10,
+      "stop_loss_pct": 5,
+      "daily_drawdown_limit_pct": 12
+    },
+    "execution_engine": {
+      "enabled": false,
+      "status": "coming_soon"
+    },
+    "treasury": {
+      "enabled": true,
+      "public_wallet": "YOUR_WALLET_HERE",
+      "reinvestment_policy": "compound_profits"
+    }
+  },
+  "visibility": {
+    "public_repo": true,
+    "public_wallet": true,
+    "dashboard": "planned"
+  }
+}
